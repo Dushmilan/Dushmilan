@@ -58,7 +58,7 @@ Core focus: *How can LLMs better understand and generate speech by capturing spe
 
 - **LinkedIn:** [Dushmilan Jeyanathan](https://linkedin.com/in/dushmilan-jeyanathan)
 - **GitHub:** [github.com/Dushmilan-Jeyanathan](https://github.com/Dushmilan-Jeyanathan)
-- **Email:** Available on LinkedIn
+- **Email:** [Dushmilan Jeyanthan[(Dushmilan05@gmail.com)
 
 ### ⚡ Fun Facts
 
