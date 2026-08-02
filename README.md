@@ -7,7 +7,6 @@ I'm **Dushmilan** — a first-year Computer Science undergraduate at the Univers
 ### 🔭 Currently Working On
 
 - **[CodeCoach-AI](https://github.com/Dushmilan-Jeyanathan/CodeCoach-AI)** — An open-source educational platform for ~400 CS students at the University of Peradeniya, featuring an integrated AI chat panel. Transitioning from user-provided API keys to a self-hosted fine-tuned **Gemma 2B** model for sustainable, scalable deployment.
-- **Java HTTP Server** — Building an HTTP server from scratch using Java's `ServerSocket` as a hands-on approach to systems programming. Documenting the journey publicly on LinkedIn with regular progress updates.
 - **Research at [MARC](https://marc.ics.pdn.ac.lk/)** — Contributing to the MultiDisciplinary AI Research Centre at the University of Peradeniya, exploring cutting-edge applications of machine learning.
 
 ### 🌱 Currently Learning
