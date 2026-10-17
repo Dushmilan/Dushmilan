@@ -1,67 +1,46 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dushmilan.github.io/pendulum-sonification/assets/hero.svg">
+  <img src="https://dushmilan.github.io/pendulum-sonification/assets/hero-light.svg" alt="A pendulum swinging once per note, resampled 256 times into music">
+</picture>
+
 ## Hey there 👋
 
-I'm **Dushmilan** — a first-year Computer Science undergraduate at the University of Peradeniya, Sri Lanka, with a passion for **AI infrastructure engineering** and **audio AI research**.
+I'm **Dushmilan** — a Computer Science undergraduate at the University of Peradeniya, Sri Lanka, working towards **direct PhD admission into audio reasoning and large audio-language model (LALM) research**.
+
+The question I keep coming back to: *how can a model understand and generate speech by capturing speaker nuance, emotion and natural pronunciation from audio alone?*
+
+▶ **[Watch and hear a pendulum become music](https://dushmilan.github.io/pendulum-sonification/)** — an ideal pendulum, sampled and resampled **256×** into the audible range, with the maths and its limits written down rather than glossed over.
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 Currently
 
-- **[CodeCoach-AI](https://github.com/Dushmilan-Jeyanathan/CodeCoach-AI)** — An open-source educational platform for ~400 CS students at the University of Peradeniya, featuring an integrated AI chat panel. Transitioning from user-provided API keys to a self-hosted, fine-tuned **Gemma 2B** model for sustainable, scalable deployment.
-- **Research at [MARC](https://marc.ics.pdn.ac.lk/)** — Contributing to the MultiDisciplinary AI Research Centre at the University of Peradeniya, exploring cutting-edge applications of machine learning.
+- **[pendulum-sonification](https://github.com/Dushmilan/pendulum-sonification)** — motion → sampling → FFT → pitch, running live in the browser. Click once and it plays forever; zero dependencies, 84 tests.
+- **[CodeCoach-AI](https://github.com/Dushmilan/CodeCoach-AI)** — an open-source educational platform for ~400 CS students at the University of Peradeniya, with an integrated AI chat panel. Moving from user-supplied API keys to a self-hosted, fine-tuned **Gemma 2B**.
+- **Research at [MARC](https://marc.ics.pdn.ac.lk/)** — the MultiDisciplinary AI Research Centre at the University of Peradeniya.
 
-### 🌱 Currently Learning
+### 🌱 Currently learning
 
-- **Go** — Full-stack development with a focus on backend systems and networking
-- **Fine-tuning & LLM Deployment** — Hugging Face LLM course, model quantization, and scalable inference
-- **Advanced Audio AI** — mel-filterbanks, speaker embeddings (ECAPA-TDNN), speech tokenization (wav2vec2, VQ-VAE), and generation using frameworks like SpeechBrain and PyAnnote
-- **Test-time Compute & Low-resource NLP** — Addressing efficiency and accessibility in language models
+Go for backend and networked systems · fine-tuning and quantized deployment of small language models · audio ML fundamentals: mel-filterbanks, ECAPA-TDNN speaker embeddings, wav2vec2 and VQ-VAE speech tokenization · test-time compute and low-resource NLP.
 
-### 💡 Research Interests
+### 💡 Research interests
 
-My long-term goal: **Direct PhD admission into top-tier Audio Reasoning and Large Audio-Language Model (LALM) research labs.**
+Audio embeddings and speaker recognition (VoxCeleb, wav2vec2, CLAP) · speech tokenization and generation · low-resource and multilingual audio · efficiency and deployment · PINN training for acoustic modelling · ethical and regulatory frameworks for audio AI.
 
-Core focus: *How can LLMs better understand and generate speech by capturing speaker nuances, emotions, and natural pronunciation using exclusively audio signals?*
+### 🎯 Stack
 
-**Key domains:**
-- Audio embeddings & speaker recognition (VoxCeleb, wav2vec2, CLAP)
-- Speech tokenization & generation
-- Low-resource & multilingual audio processing
-- PINN training for acoustic modeling
-- Ethical & regulatory frameworks for audio AI
+**Languages:** Python, JavaScript, Go, Rust
+**Audio & ML:** PyTorch, TensorFlow, SpeechBrain, PyAnnote, Hugging Face
+**Web:** React, Node.js, FastAPI
+**Data & tooling:** PostgreSQL, MongoDB, Docker, Git, Figma
 
-### 🎯 Technical Stack
+### 👯 Open to
 
-**Languages:** Python, JavaScript, Java (learning)  
-**ML/Audio:** TensorFlow, PyTorch, SpeechBrain, PyAnnote, Hugging Face  
-**Web:** React, Node.js, FastAPI  
-**Tools:** Git, Docker, Figma, Notion  
-**Databases:** PostgreSQL, MongoDB  
+Audio AI and speech processing collaborations · full-stack ML platforms for education and research · open-source work on LLM inference and fine-tuning.
 
-### 👯 Open to Collaboration
+### 📫 Reach me
 
-- Audio AI & speech processing projects
-- Full-stack ML platforms for education or research
-- Open-source contributions in LLM inference & fine-tuning
-- Research on test-time compute and efficient model deployment
-
-### 💬 Ask Me About
-
-- Building **full-stack educational AI platforms** from idea to production
-- **Audio ML fundamentals** — embeddings, speaker systems, tokenization
-- **Bridging academia and industry** in AI research
-
-### 📫 How to Reach Me
-
-- **LinkedIn:** [Dushmilan Jeyanathan](https://linkedin.com/in/dushmilan-jeyanathan)
-- **GitHub:** [github.com/Dushmilan-Jeyanathan](https://github.com/Dushmilan-Jeyanathan)
+- **LinkedIn:** [dushmilan-jeyanathan](https://linkedin.com/in/dushmilan-jeyanathan)
 - **Email:** Dushmilan05@gmail.com
 
-### ⚡ Fun Facts
-
-- Plays Cricket
-- Loves GOW, AC, COD, RDR2.
-- Regularly watches movies
-
----
-
-⭐ **If you're interested in audio AI, LLM infrastructure, or building AI tools for education, let's connect!**
+<sub>Off the keyboard: cricket, and a slowly growing pile of unfinished games (GOW, AC, COD, RDR2).</sub>
