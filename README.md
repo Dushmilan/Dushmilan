@@ -13,11 +13,18 @@ The question I keep coming back to: *how can a model understand and generate spe
 
 ---
 
-### 🔭 Currently
+### 🔭 Selected work
 
-- **[pendulum-sonification](https://github.com/Dushmilan/pendulum-sonification)** — motion → sampling → FFT → pitch, running live in the browser. Click once and it plays forever; zero dependencies, 84 tests.
-- **[CodeCoach-AI](https://github.com/Dushmilan/CodeCoach-AI)** — an open-source educational platform for ~400 CS students at the University of Peradeniya, with an integrated AI chat panel. Moving from user-supplied API keys to a self-hosted, fine-tuned **Gemma 2B**.
-- **Research at [MARC](https://marc.ics.pdn.ac.lk/)** — the MultiDisciplinary AI Research Centre at the University of Peradeniya.
+| Project | What it is |
+|---|---|
+| **[pendulum-sonification](https://github.com/Dushmilan/pendulum-sonification)** | An ideal pendulum, resampled **256×** into the audible range and played back as music. Physics → sampling → FFT → pitch, live in the browser. Zero dependencies, 84 tests. |
+| **[libminerva](https://github.com/Dushmilan/libminerva)** | MINERVA — minimal inference engine for robust, verifiable and authenticated ML: encrypted, integrity-verified neural-network inference down to an ATmega328P. |
+| **[CodeCoach-AI](https://github.com/Dushmilan/CodeCoach-AI)** | Coding practice platform used by ~400 CS students at Peradeniya: DSA practice, language curricula and real-time AI coaching. Next.js + FastAPI, local-first PostgreSQL, moving to a self-hosted fine-tuned **Gemma 2B**. |
+| **[Forge](https://github.com/Dushmilan/Forge)** | A job-execution engine built one Go version at a time — learning the language by building it. V0–V3 done, V4–V11 planned. |
+| **[tls-lab](https://github.com/Dushmilan/tls-lab)** | A TLS handshake lab: root CA, intermediate CA, leaf certificates, mTLS server and client. Learning TLS by running it. |
+| **[Spring](https://github.com/Dushmilan/Spring)** | A programming language built from scratch in Rust. |
+
+Also: research at **[MARC](https://marc.ics.pdn.ac.lk/)**, the MultiDisciplinary AI Research Centre at the University of Peradeniya.
 
 ### 🌱 Currently learning
 
