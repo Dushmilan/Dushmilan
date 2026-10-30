@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dushmilan.github.io/pendulum-sonification/assets/hero.svg">
-  <img src="https://dushmilan.github.io/pendulum-sonification/assets/hero-light.svg" alt="A pendulum swinging once per note, resampled 256 times into music">
+  <source media="(prefers-color-scheme: dark)" srcset="https://dushmilan.github.io/pendulum-sonification/assets/hero-strip.svg">
+  <img src="https://dushmilan.github.io/pendulum-sonification/assets/hero-strip-light.svg" width="1200" alt="Four panels in one thin strip: a pendulum, its oscillation, a 256× resampling with an FFT, and a piano roll">
 </picture>
 
 ## Hey there 👋
@@ -17,7 +17,7 @@ The question I keep coming back to: *how can a model understand and generate spe
 
 | Project | What it is |
 |---|---|
-| **[pendulum-sonification](https://github.com/Dushmilan/pendulum-sonification)** | An ideal pendulum, resampled **256×** into the audible range and played back as music. Physics → sampling → FFT → pitch, live in the browser. Zero dependencies, 84 tests. |
+| **[pendulum-sonification](https://github.com/Dushmilan/pendulum-sonification)** | An ideal pendulum, resampled **256×** into the audible range and played back as music. Physics → sampling → FFT → pitch, live in the browser. Zero dependencies, 90 tests. |
 | **[libminerva](https://github.com/Dushmilan/libminerva)** | MINERVA — minimal inference engine for robust, verifiable and authenticated ML: encrypted, integrity-verified neural-network inference down to an ATmega328P. |
 | **[CodeCoach-AI](https://github.com/Dushmilan/CodeCoach-AI)** | Coding practice platform used by ~400 CS students at Peradeniya: DSA practice, language curricula and real-time AI coaching. Next.js + FastAPI, local-first PostgreSQL, moving to a self-hosted fine-tuned **Gemma 2B**. |
 | **[Forge](https://github.com/Dushmilan/Forge)** | A job-execution engine built one Go version at a time — learning the language by building it. V0–V3 done, V4–V11 planned. |
@@ -36,9 +36,9 @@ Audio embeddings and speaker recognition (VoxCeleb, wav2vec2, CLAP) · speech to
 
 ### 🎯 Stack
 
-**Languages:** Python, JavaScript, Go, Rust
-**Audio & ML:** PyTorch, TensorFlow, SpeechBrain, PyAnnote, Hugging Face
-**Web:** React, Node.js, FastAPI
+**Languages:** Python, JavaScript, Go, Rust<br>
+**Audio & ML:** PyTorch, TensorFlow, SpeechBrain, PyAnnote, Hugging Face<br>
+**Web:** React, Node.js, FastAPI<br>
 **Data & tooling:** PostgreSQL, MongoDB, Docker, Git, Figma
 
 ### 👯 Open to
